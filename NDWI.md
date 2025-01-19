@@ -1,0 +1,1 @@
+Consist of GEE (javascripth) and PyQGIS (Python) for NDWI some area of Bantul Regency. GEE progress to get NDWI from sentinel-2A Multispectral from create polygon until export to drive. while, PyQgis for automatic layout in QGIS.
